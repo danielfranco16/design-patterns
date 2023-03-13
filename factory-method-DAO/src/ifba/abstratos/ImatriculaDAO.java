@@ -1,5 +1,4 @@
-package io.github.jiangdequan;
-
-public interface  {
+package ifba.abstratos;
+public interface ImatriculaDAO {
     
 }
