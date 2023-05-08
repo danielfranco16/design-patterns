@@ -8,6 +8,6 @@ public class App {
 
 		button.setComando(executarTarefa);
 		button.pressionarBotao();
-	
+
 	}
 }
